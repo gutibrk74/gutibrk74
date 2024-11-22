@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Rocha
+## Olá! Eu sou o Gustavo Felipe Morais
 
 🌱 Estudante da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS )
 

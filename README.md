@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo Felipe Morais
 
 🎓 Formado no Colegio Comercial de Caçapava (Tecnico em TI Integrado ao Ensino Medio) 
-📚 Estudante da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS )
+<br>📚 Estudante da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS )
 
 ## 📈 Minhas Habilidades:
 - **Linguagens**: Java, JavaScript, Python, HTML, CSS, C#

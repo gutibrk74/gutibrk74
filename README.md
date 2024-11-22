@@ -4,13 +4,13 @@
 
 ## 📈 Minhas Habilidades:
 - **Linguagens**: Java, JavaScript, Python, HTML, CSS
-- **Frameworks e Ferramentas**: React, Node.js, Express, Git, Docker
-- **Banco de Dados**: MySQL, MongoDB
+- **Frameworks e Ferramentas**: Node.js, Git, Figma, Bootstrap
+- **Banco de Dados**: MySQL, PgAdmin, Access
 - **Metodologias**: Agile, Scrum
 
 ## 📊 Minhas Estatísticas no GitHub:
 
-![GabrielRocha-27GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRocha-27&show_icons=true&theme=dracula)
+![gutibrk747GitHub stats](https://github-readme-stats.vercel.app/api?username=gutibrk74&show_icons=true&theme=dracula)
 <br/>
 
 
